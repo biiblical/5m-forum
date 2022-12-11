@@ -2,17 +2,17 @@ var defaultThreads = [
     {
         id: 1,
         title: "Thread 1",
-        author: "Aaron",
+        author: "Mahnoor",
         date: Date.now(),
         content: "Thread content",
         comments: [
             {
-                author: "Jack",
+                author: "Eron",
                 date: Date.now(),
                 content: "Hey there"
             },
             {
-                author: "Arthur",
+                author: "Alek",
                 date: Date.now(),
                 content: "Hey to you too"
             }
@@ -21,17 +21,17 @@ var defaultThreads = [
     {
         id: 2,
         title: "Thread 2",
-        author: "Aaron",
+        author: "Mahnoor",
         date: Date.now(),
         content: "Thread content 2",
         comments: [
             {
-                author: "Jack",
+                author: "Eron",
                 date: Date.now(),
                 content: "Hey there"
             },
             {
-                author: "Arthur",
+                author: "Alek",
                 date: Date.now(),
                 content: "Hey to you too"
             }
