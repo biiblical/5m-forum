@@ -1,39 +1,39 @@
 var defaultThreads = [
     {
         id: 1,
-        title: "Thread 1",
-        author: "Aaron",
+        title: "Do you add salt and pepeper to everything",
+        author: "Mahnoor",
         date: Date.now(),
         content: "Thread content",
         comments: [
             {
-                author: "Jack",
+                author: "Alek",
                 date: Date.now(),
-                content: "Hey there"
+                content: "Hey there, yeah I usually add salt and pepper to any savory recipe."
             },
             {
-                author: "Arthur",
+                author: "Nia",
                 date: Date.now(),
-                content: "Hey to you too"
+                content: "Hey, I normally just use salt."
             }
         ]
     },
     {
         id: 2,
-        title: "Thread 2",
-        author: "Aaron",
+        title: "Does Balkan cuisine consist only of meat?",
+        author: "Nia",
         date: Date.now(),
         content: "Thread content 2",
         comments: [
             {
-                author: "Jack",
+                author: "Alek",
                 date: Date.now(),
-                content: "Hey there"
+                content: "No, for example in Macedonia we enjoy eating a lot of pastries and also vegetables."
             },
             {
-                author: "Arthur",
+                author: "Eron",
                 date: Date.now(),
-                content: "Hey to you too"
+                content: "In Kosovo, we don't really have food we just listen to people tell us we belong to Serbia."
             }
         ]
     }
